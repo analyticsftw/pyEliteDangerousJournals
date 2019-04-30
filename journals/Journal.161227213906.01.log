@@ -1,0 +1,163 @@
+{ "timestamp":"2016-12-27T20:39:06Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2016-12-27T20:41:08Z", "event":"LoadGame", "Commander":"Singlemalt", "Ship":"Cutter", "ShipID":16, "GameMode":"Open", "Credits":169413993, "Loan":0 }
+{ "timestamp":"2016-12-27T20:41:08Z", "event":"Rank", "Combat":7, "Trade":8, "Explore":7, "Empire":14, "Federation":12, "CQC":0 }
+{ "timestamp":"2016-12-27T20:41:08Z", "event":"Progress", "Combat":18, "Trade":100, "Explore":48, "Empire":100, "Federation":40, "CQC":0 }
+{ "timestamp":"2016-12-27T20:41:38Z", "event":"Location", "Docked":false, "StarSystem":"Wolf 397", "StarPos":[40.000,79.219,-10.406], "SystemAllegiance":"Alliance", "SystemEconomy":"$economy_Colony;", "SystemEconomy_Localised":"Colony", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "Body":"Wolf 397", "BodyType":"Star", "SystemFaction":"Wolf 397 Independents" }
+{ "timestamp":"2016-12-27T20:42:26Z", "event":"SupercruiseEntry", "StarSystem":"Wolf 397" }
+{ "timestamp":"2016-12-27T20:45:59Z", "event":"SupercruiseExit", "StarSystem":"Wolf 397", "Body":"Trus Madi", "BodyType":"Planet" }
+{ "timestamp":"2016-12-27T20:46:36Z", "event":"SupercruiseEntry", "StarSystem":"Wolf 397" }
+{ "timestamp":"2016-12-27T20:48:47Z", "event":"SupercruiseExit", "StarSystem":"Wolf 397", "Body":"Trus Madi", "BodyType":"Planet" }
+{ "timestamp":"2016-12-27T20:49:28Z", "event":"DockingRequested", "StationName":"Trophy Camp" }
+{ "timestamp":"2016-12-27T20:49:28Z", "event":"ReceiveText", "From":"Trophy Camp", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T20:49:29Z", "event":"ReceiveText", "From":"Trophy Camp", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T20:49:29Z", "event":"DockingGranted", "LandingPad":8, "StationName":"Trophy Camp" }
+{ "timestamp":"2016-12-27T20:49:40Z", "event":"ReceiveText", "From":"Trophy Camp", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T20:50:40Z", "event":"Docked", "StationName":"Trophy Camp", "StarSystem":"Wolf 397", "StationFaction":"Wolf 397 Independents", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Alliance" }
+{ "timestamp":"2016-12-27T20:50:46Z", "event":"Touchdown", "Latitude":-29.829121, "Longitude":3.716019 }
+{ "timestamp":"2016-12-27T20:51:49Z", "event":"RefuelAll", "Cost":456, "Amount":9.095554 }
+{ "timestamp":"2016-12-27T20:52:04Z", "event":"EngineerProgress", "Engineer":"Tod 'The Blaster' McQuinn", "Progress":"Unlocked", "Rank":1 }
+{ "timestamp":"2016-12-27T20:53:31Z", "event":"EngineerCraft", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_Overcharged", "Level":1, "Ingredients":{"nickel":1 } }
+{ "timestamp":"2016-12-27T20:54:31Z", "event":"EngineerCraft", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_Overcharged", "Level":1, "Ingredients":{"nickel":1 } }
+{ "timestamp":"2016-12-27T20:55:18Z", "event":"EngineerApply", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_Overcharged", "Level":1 }
+{ "timestamp":"2016-12-27T20:56:07Z", "event":"EngineerCraft", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_HighCapacity", "Level":1, "Ingredients":{"mechanicalscrap":1 } }
+{ "timestamp":"2016-12-27T20:56:09Z", "event":"EngineerProgress", "Engineer":"Tod 'The Blaster' McQuinn", "Rank":2 }
+{ "timestamp":"2016-12-27T20:56:39Z", "event":"EngineerApply", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_HighCapacity", "Level":1 }
+{ "timestamp":"2016-12-27T20:57:29Z", "event":"EngineerCraft", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_LongRange", "Level":1, "Ingredients":{"sulphur":1 } }
+{ "timestamp":"2016-12-27T21:01:59Z", "event":"EngineerCraft", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_LongRange", "Level":1, "Ingredients":{"sulphur":1 } }
+{ "timestamp":"2016-12-27T21:02:23Z", "event":"EngineerCraft", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_LongRange", "Level":1, "Ingredients":{"sulphur":1 } }
+{ "timestamp":"2016-12-27T21:05:12Z", "event":"EngineerApply", "Engineer":"Tod 'The Blaster' McQuinn", "Blueprint":"Weapon_LongRange", "Level":1 }
+{ "timestamp":"2016-12-27T21:06:08Z", "event":"Undocked", "StationName":"Trophy Camp" }
+{ "timestamp":"2016-12-27T21:06:11Z", "event":"Liftoff", "Latitude":-29.829397, "Longitude":3.710613 }
+{ "timestamp":"2016-12-27T21:06:40Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Meron Dural;", "From_Localised":"Meron Dural", "Message":"$Escort_EscortJump07;", "Message_Localised":"With nothing to protect, I'm out of here.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:07:30Z", "event":"ReceiveText", "From":"Trophy Camp", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:09:06Z", "event":"SupercruiseEntry", "StarSystem":"Wolf 397" }
+{ "timestamp":"2016-12-27T21:13:10Z", "event":"FSDJump", "StarSystem":"Ross 122", "StarPos":[26.344,74.250,-3.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":16.144, "FuelUsed":9.981008, "FuelLevel":54.018993 }
+{ "timestamp":"2016-12-27T21:13:21Z", "event":"SupercruiseExit", "StarSystem":"Ross 122", "Body":"Ross 122", "BodyType":"Star" }
+{ "timestamp":"2016-12-27T21:14:19Z", "event":"SupercruiseEntry", "StarSystem":"Ross 122" }
+{ "timestamp":"2016-12-27T21:14:19Z", "event":"HeatWarning" }
+{ "timestamp":"2016-12-27T21:14:37Z", "event":"FuelScoop", "Scooped":0.028908, "Total":56.443169 }
+{ "timestamp":"2016-12-27T21:17:09Z", "event":"FSDJump", "StarSystem":"Ashtart", "StarPos":[18.500,65.844,3.281], "SystemAllegiance":"Alliance", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Patronage;", "SystemGovernment_Localised":"Patronage", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":13.285, "FuelUsed":5.782694, "FuelLevel":50.660473, "SystemFaction":"LHS 2541 Alliance Combine" }
+{ "timestamp":"2016-12-27T21:17:38Z", "event":"FuelScoop", "Scooped":5.169857, "Total":55.830330 }
+{ "timestamp":"2016-12-27T21:18:18Z", "event":"FSDJump", "StarSystem":"Mahakala", "StarPos":[3.531,60.750,7.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":16.349, "FuelUsed":10.223715, "FuelLevel":45.606613 }
+{ "timestamp":"2016-12-27T21:18:48Z", "event":"FuelScoop", "Scooped":8.319130, "Total":53.925743 }
+{ "timestamp":"2016-12-27T21:21:07Z", "event":"FSDJump", "StarSystem":"LHS 2771", "StarPos":[-5.781,64.094,10.563], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_HighTech;", "SystemEconomy_Localised":"High tech", "SystemGovernment":"$government_Dictatorship;", "SystemGovernment_Localised":"Dictatorship", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":10.376, "FuelUsed":2.921216, "FuelLevel":51.004528, "SystemFaction":"LHS 2771 Party" }
+{ "timestamp":"2016-12-27T21:24:21Z", "event":"FuelScoop", "Scooped":0.443211, "Total":51.447739 }
+{ "timestamp":"2016-12-27T21:29:20Z", "event":"SupercruiseExit", "StarSystem":"LHS 2771", "Body":"Sarafanov Vision", "BodyType":"Station" }
+{ "timestamp":"2016-12-27T21:29:39Z", "event":"DockingRequested", "StationName":"Sarafanov Vision" }
+{ "timestamp":"2016-12-27T21:29:39Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:29:40Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:29:40Z", "event":"DockingGranted", "LandingPad":9, "StationName":"Sarafanov Vision" }
+{ "timestamp":"2016-12-27T21:29:56Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:30:03Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:30:25Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:30:49Z", "event":"ReceiveText", "From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch02;", "Message_Localised":"You're clean. Proceed, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:31:34Z", "event":"Docked", "StationName":"Sarafanov Vision", "StationType":"Coriolis", "StarSystem":"LHS 2771", "StationFaction":"LHS 2771 Party", "StationGovernment":"$government_Dictatorship;", "StationGovernment_Localised":"Dictatorship", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2016-12-27T21:32:16Z", "event":"RepairAll", "Cost":52650 }
+{ "timestamp":"2016-12-27T21:32:18Z", "event":"RefuelAll", "Cost":684, "Amount":13.655271 }
+{ "timestamp":"2016-12-27T21:32:25Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":924135 }
+{ "timestamp":"2016-12-27T21:33:42Z", "event":"CrewHire", "Name":"Ayleen Fitzgerald", "Faction":"LHS 2771 Silver Major Comms", "Cost":15000, "CombatRank":0 }
+{ "timestamp":"2016-12-27T21:36:15Z", "event":"ModuleSwap", "FromSlot":"Slot07_Size5", "ToSlot":"Slot05_Size6", "FromItem":"$int_fighterbay_size5_class1_name;", "FromItem_Localised":"Fighter Hangar", "ToItem":"Null", "Ship":"cutter", "ShipID":16 }
+{ "timestamp":"2016-12-27T21:36:56Z", "event":"ModuleSwap", "FromSlot":"Slot05_Size6", "ToSlot":"Slot07_Size5", "FromItem":"$int_fighterbay_size5_class1_name;", "FromItem_Localised":"Fighter Hangar", "ToItem":"Null", "Ship":"cutter", "ShipID":16 }
+{ "timestamp":"2016-12-27T21:37:11Z", "event":"ModuleSell", "Slot":"Slot08_Size4", "SellItem":"$int_cargorack_size4_class1_name;", "SellItem_Localised":"Cargo Rack", "SellPrice":33470, "Ship":"cutter", "ShipID":16 }
+{ "timestamp":"2016-12-27T21:38:15Z", "event":"Undocked", "StationName":"Sarafanov Vision", "StationType":"Coriolis" }
+{ "timestamp":"2016-12-27T21:38:50Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:39:42Z", "event":"SupercruiseEntry", "StarSystem":"LHS 2771" }
+{ "timestamp":"2016-12-27T21:43:51Z", "event":"SupercruiseExit", "StarSystem":"LHS 2771", "Body":"LHS 2771 5 B Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-12-27T21:44:10Z", "event":"LaunchFighter", "Loadout":"three", "PlayerControlled":false }
+{ "timestamp":"2016-12-27T21:46:44Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Brendan;", "From_Localised":"Brendan", "Message":"$Pirate_OnStartScanCargo05;", "Message_Localised":"What treats do you carry?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:46:53Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Rowland Jones;", "From_Localised":"Rowland Jones", "Message":"$Pirate_OnStartScanCargo02;", "Message_Localised":"Carrying anything nice?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:46:54Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Brendan;", "From_Localised":"Brendan", "Message":"$Pirate_OnNoCargoFound02;", "Message_Localised":"Bah, nothing.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:47:03Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Boris Vladimir Potter;", "From_Localised":"Boris Vladimir Potter", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:47:03Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Rowland Jones;", "From_Localised":"Rowland Jones", "Message":"$Pirate_OnNoCargoFound10;", "Message_Localised":"There's nothing worth my while here.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:47:19Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":104390 } ], "TotalReward":104390, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T21:47:20Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Don Craig;", "From_Localised":"Don Craig", "Message":"$Pirate_OnStartScanCargo05;", "Message_Localised":"What treats do you carry?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:47:24Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Aisling Guardian;", "From_Localised":"Aisling Guardian", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:47:30Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Don Craig;", "From_Localised":"Don Craig", "Message":"$Pirate_OnNoCargoFound05;", "Message_Localised":"How do you fools make a living?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:49:17Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Irene Salander;", "From_Localised":"Irene Salander", "Message":"$Escort_EscortJump09;", "Message_Localised":"Mission failed. Time for me to leave.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:50:13Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Corran Carpenter;", "From_Localised":"Corran Carpenter", "Message":"$Pirate_OnStartScanCargo07;", "Message_Localised":"Do you have anything of value?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:50:19Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":218320 } ], "TotalReward":218320, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T21:50:23Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Corran Carpenter;", "From_Localised":"Corran Carpenter", "Message":"$Pirate_OnNoCargoFound09;", "Message_Localised":"Next time you should fill your hold with gold.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:52:31Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Rowland Jones;", "From_Localised":"Rowland Jones", "Message":"$Pirate_OnStartScanCargo11;", "Message_Localised":"I hope you have something good in your hold.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:52:57Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Brendan;", "From_Localised":"Brendan", "Message":"$Pirate_OnStartScanCargo01;", "Message_Localised":"I see all!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:53:07Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Brendan;", "From_Localised":"Brendan", "Message":"$Pirate_OnNoCargoFound04;", "Message_Localised":"Another dud? Damn it all!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:53:26Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":95550 } ], "TotalReward":95550, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T21:53:29Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Felix VanderHallen;", "From_Localised":"Felix VanderHallen", "Message":"$Pirate_OnStartScanCargo06;", "Message_Localised":"Let's see what you are carrying.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:53:39Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Felix VanderHallen;", "From_Localised":"Felix VanderHallen", "Message":"$Pirate_OnNoCargoFound01;", "Message_Localised":"No cargo? Waste of time...", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:54:30Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":102969 } ], "TotalReward":102969, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T21:55:36Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":12080 } ], "TotalReward":12080, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T21:56:28Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Felix VanderHallen;", "From_Localised":"Felix VanderHallen", "Message":"$Pirate_OnDeclarePiracyAttack05;", "Message_Localised":"You have no chance now.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:57:15Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":10375 } ], "TotalReward":10375, "VictimFaction":"LHS 2771 Party" }
+{ "timestamp":"2016-12-27T21:58:06Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Fabian Dobler;", "From_Localised":"Fabian Dobler", "Message":"$Pirate_OnStartScanCargo06;", "Message_Localised":"Let's see what you are carrying.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:58:10Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Shay Moore;", "From_Localised":"Shay Moore", "Message":"$Pirate_OnDeclarePiracyAttack01;", "Message_Localised":"I'll pick your bones clean, greenhorn.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:58:16Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Fabian Dobler;", "From_Localised":"Fabian Dobler", "Message":"$Pirate_OnNoCargoFound09;", "Message_Localised":"Next time you should fill your hold with gold.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:58:57Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Shay Moore;", "From_Localised":"Shay Moore", "Message":"$Pirate_OnDeclarePiracyAttack16;", "Message_Localised":"I have you in my sights.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T21:59:56Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":129287 } ], "TotalReward":129287, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:01:14Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kurdoman;", "From_Localised":"Kurdoman", "Message":"$Pirate_OnStartScanCargo05;", "Message_Localised":"What treats do you carry?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:01:24Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kurdoman;", "From_Localised":"Kurdoman", "Message":"$Pirate_OnNoCargoFound08;", "Message_Localised":"A wasted effort. There's no cargo here.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:02:10Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Florian Gerlach;", "From_Localised":"Florian Gerlach", "Message":"$Pirate_OnStartScanCargo03;", "Message_Localised":"What are you hauling?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:02:20Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Florian Gerlach;", "From_Localised":"Florian Gerlach", "Message":"$Pirate_OnNoCargoFound03;", "Message_Localised":"No cargo? Useless dreg.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:02:33Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gavin Kinsey;", "From_Localised":"Gavin Kinsey", "Message":"$Pirate_OnStartScanCargo02;", "Message_Localised":"Carrying anything nice?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:02:43Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gavin Kinsey;", "From_Localised":"Gavin Kinsey", "Message":"$Pirate_OnNoCargoFound09;", "Message_Localised":"Next time you should fill your hold with gold.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:03:27Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=James Greenstar;", "From_Localised":"James Greenstar", "Message":"$Pirate_OnStartScanCargo03;", "Message_Localised":"What are you hauling?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:03:37Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=James Greenstar;", "From_Localised":"James Greenstar", "Message":"$Pirate_OnNoCargoFound10;", "Message_Localised":"There's nothing worth my while here.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:04:11Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":66400 } ], "TotalReward":66400, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:05:57Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Florian Gerlach;", "From_Localised":"Florian Gerlach", "Message":"$Pirate_OnDeclarePiracyAttack01;", "Message_Localised":"I'll pick your bones clean, greenhorn.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:06:44Z", "event":"HullDamage", "Health":0.758883 }
+{ "timestamp":"2016-12-27T22:07:19Z", "event":"HullDamage", "Health":0.595579 }
+{ "timestamp":"2016-12-27T22:07:28Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":17050 } ], "TotalReward":17050, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:07:28Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Erin Samuels;", "From_Localised":"Erin Samuels", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:07:33Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Erin Samuels;", "From_Localised":"Erin Samuels", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:07:57Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":25100 } ], "TotalReward":25100, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:08:52Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gavin Kinsey;", "From_Localised":"Gavin Kinsey", "Message":"$BadKarmaCriticalDamage03;", "Message_Localised":"You fight a good fight!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:09:04Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":16624 } ], "TotalReward":16624, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:09:06Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Pongington;", "From_Localised":"Pongington", "Message":"$Pirate_OnStartScanCargo05;", "Message_Localised":"What treats do you carry?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:09:16Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Pongington;", "From_Localised":"Pongington", "Message":"$Pirate_OnNoCargoFound03;", "Message_Localised":"No cargo? Useless dreg.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:09:52Z", "event":"DockFighter" }
+{ "timestamp":"2016-12-27T22:10:07Z", "event":"LaunchFighter", "Loadout":"three", "PlayerControlled":false }
+{ "timestamp":"2016-12-27T22:10:15Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Rey;", "From_Localised":"Rey", "Message":"$Pirate_OnStartScanCargo04;", "Message_Localised":"What do you carry, I wonder?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:10:25Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Rey;", "From_Localised":"Rey", "Message":"$Pirate_OnNoCargoFound04;", "Message_Localised":"Another dud? Damn it all!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:10:36Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Pongington;", "From_Localised":"Pongington", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:11:27Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":73550 } ], "TotalReward":73550, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:12:26Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=nathan berman-moss;", "From_Localised":"nathan berman-moss", "Message":"$Pirate_OnStartScanCargo09;", "Message_Localised":"The scan will soon be over.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:12:36Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=nathan berman-moss;", "From_Localised":"nathan berman-moss", "Message":"$Pirate_OnNoCargoFound07;", "Message_Localised":"Nothing for me here.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:12:41Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":20142 } ], "TotalReward":20142, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:14:00Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ville Shoogagoo;", "From_Localised":"Ville Shoogagoo", "Message":"$Pirate_OnStartScanCargo02;", "Message_Localised":"Carrying anything nice?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:14:10Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ville Shoogagoo;", "From_Localised":"Ville Shoogagoo", "Message":"$Pirate_OnNoCargoFound05;", "Message_Localised":"How do you fools make a living?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:15:21Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Chris Puddy;", "From_Localised":"Chris Puddy", "Message":"$Escort_AttackRun03;", "Message_Localised":"Target in my heads up, locking on.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:15:40Z", "event":"HeatWarning" }
+{ "timestamp":"2016-12-27T22:15:44Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=nathan berman-moss;", "From_Localised":"nathan berman-moss", "Message":"$Pirate_OnDeclarePiracyAttack14;", "Message_Localised":"Your doom approaches.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:15:45Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dylan Hope;", "From_Localised":"Dylan Hope", "Message":"$Pirate_OnStartScanCargo09;", "Message_Localised":"The scan will soon be over.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:15:49Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kevin Kirmse;", "From_Localised":"Kevin Kirmse", "Message":"$Pirate_OnStartScanCargo02;", "Message_Localised":"Carrying anything nice?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:15:55Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dylan Hope;", "From_Localised":"Dylan Hope", "Message":"$Pirate_OnNoCargoFound04;", "Message_Localised":"Another dud? Damn it all!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:15:58Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kevin Kirmse;", "From_Localised":"Kevin Kirmse", "Message":"$Pirate_OnNoCargoFound05;", "Message_Localised":"How do you fools make a living?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:16:33Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=JayZone;", "From_Localised":"JayZone", "Message":"$Escort_NearDeath09;", "Message_Localised":"Where's my support?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:17:16Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Chris Puddy;", "From_Localised":"Chris Puddy", "Message":"$FarragoFlee04;", "Message_Localised":"Breaking out.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:17:28Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":20825 } ], "TotalReward":20825, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:18:08Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":83105 } ], "TotalReward":83105, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:20:13Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Allan Saddi;", "From_Localised":"Allan Saddi", "Message":"$Pirate_OnStartScanCargo01;", "Message_Localised":"I see all!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:20:23Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Allan Saddi;", "From_Localised":"Allan Saddi", "Message":"$Pirate_OnNoCargoFound05;", "Message_Localised":"How do you fools make a living?", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:20:34Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Allan Saddi;", "From_Localised":"Allan Saddi", "Message":"$Pirate_OnDeclarePiracyAttack05;", "Message_Localised":"You have no chance now.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:21:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Richard McKeon;", "From_Localised":"Richard McKeon", "Message":"$Pirate_OnStartScanCargo01;", "Message_Localised":"I see all!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:21:12Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Allan Saddi;", "From_Localised":"Allan Saddi", "Message":"$BadKarmaCriticalDamage07;", "Message_Localised":"Too much damage!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:21:14Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Richard McKeon;", "From_Localised":"Richard McKeon", "Message":"$Pirate_OnNoCargoFound04;", "Message_Localised":"Another dud? Damn it all!", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:21:27Z", "event":"Bounty", "Rewards":[ { "Faction":"LHS 2771 Party", "Reward":29590 } ], "TotalReward":29590, "VictimFaction":"Pirates of LHS 2771" }
+{ "timestamp":"2016-12-27T22:22:13Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Andrew Devonport;", "From_Localised":"Andrew Devonport", "Message":"$Pirate_OnStartScanCargo10;", "Message_Localised":"Let me see what you have.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:22:23Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Andrew Devonport;", "From_Localised":"Andrew Devonport", "Message":"$Pirate_OnNoCargoFound02;", "Message_Localised":"Bah, nothing.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:23:19Z", "event":"HullDamage", "Health":0.775578 }
+{ "timestamp":"2016-12-27T22:23:23Z", "event":"HullDamage", "Health":0.587100 }
+{ "timestamp":"2016-12-27T22:23:25Z", "event":"HullDamage", "Health":0.363728 }
+{ "timestamp":"2016-12-27T22:23:26Z", "event":"HullDamage", "Health":0.188708 }
+{ "timestamp":"2016-12-27T22:23:58Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Markus Dolroy;", "From_Localised":"Markus Dolroy", "Message":"$Escort_AttackDutyStart03;", "Message_Localised":"Incoming aggressors, time to lock and load.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:23:58Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Richard McKeon;", "From_Localised":"Richard McKeon", "Message":"$Pirate_OnDeclarePiracyAttack01;", "Message_Localised":"I'll pick your bones clean, greenhorn.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:24:12Z", "event":"SupercruiseEntry", "StarSystem":"LHS 2771" }
+{ "timestamp":"2016-12-27T22:31:13Z", "event":"SupercruiseExit", "StarSystem":"LHS 2771", "Body":"Sarafanov Vision", "BodyType":"Station" }
+{ "timestamp":"2016-12-27T22:31:25Z", "event":"DockingRequested", "StationName":"Sarafanov Vision" }
+{ "timestamp":"2016-12-27T22:31:25Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:31:27Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:31:27Z", "event":"DockingGranted", "LandingPad":24, "StationName":"Sarafanov Vision" }
+{ "timestamp":"2016-12-27T22:31:37Z", "event":"ReceiveText", "From":"Sarafanov Vision", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-27T22:32:56Z", "event":"Docked", "StationName":"Sarafanov Vision", "StationType":"Coriolis", "StarSystem":"LHS 2771", "StationFaction":"LHS 2771 Party", "StationGovernment":"$government_Dictatorship;", "StationGovernment_Localised":"Dictatorship", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2016-12-27T22:39:59Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":1025357 }
+{ "timestamp":"2016-12-27T22:40:06Z", "event":"BuyAmmo", "Cost":7994 }
+{ "timestamp":"2016-12-27T22:40:06Z", "event":"RestockVehicle", "Type":"independent_fighter", "Loadout":"three", "Cost":1030, "Count":1 }
+{ "timestamp":"2016-12-27T22:40:07Z", "event":"RefuelAll", "Cost":127, "Amount":2.514674 }

@@ -1,0 +1,101 @@
+{ "timestamp":"2016-12-20T22:10:02Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2016-12-20T22:11:18Z", "event":"LoadGame", "Commander":"Singlemalt", "Ship":"Cutter", "ShipID":16, "GameMode":"Open", "Credits":170800819, "Loan":0 }
+{ "timestamp":"2016-12-20T22:11:18Z", "event":"Rank", "Combat":7, "Trade":8, "Explore":7, "Empire":14, "Federation":12, "CQC":0 }
+{ "timestamp":"2016-12-20T22:11:18Z", "event":"Progress", "Combat":15, "Trade":100, "Explore":48, "Empire":100, "Federation":40, "CQC":0 }
+{ "timestamp":"2016-12-20T22:11:48Z", "event":"Location", "Docked":false, "StarSystem":"Ugrivirii", "StarPos":[132.500,-99.063,-3.281], "SystemAllegiance":"Empire", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Ugrivirii 2 A Ring", "BodyType":"PlanetaryRing", "SystemFaction":"Ugrivirii Life Inc" }
+{ "timestamp":"2016-12-20T22:13:36Z", "event":"SupercruiseEntry", "StarSystem":"Ugrivirii" }
+{ "timestamp":"2016-12-20T22:15:15Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Frank Pytam;", "From_Localised":"Frank Pytam", "Message":"$Pirate_StartInterdiction05;", "Message_Localised":"You have something that I want.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:16:29Z", "event":"SupercruiseExit", "StarSystem":"Ugrivirii", "Body":"Jefferies Port", "BodyType":"Station" }
+{ "timestamp":"2016-12-20T22:16:43Z", "event":"DockingRequested", "StationName":"Jefferies Port" }
+{ "timestamp":"2016-12-20T22:16:43Z", "event":"ReceiveText", "From":"Jefferies Port", "Message":"$DockingChatter_Allied;", "Message_Localised":"An ally like you is always welcome here.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:16:44Z", "event":"ReceiveText", "From":"Jefferies Port", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:16:44Z", "event":"DockingGranted", "LandingPad":39, "StationName":"Jefferies Port" }
+{ "timestamp":"2016-12-20T22:17:09Z", "event":"ReceiveText", "From":"Jefferies Port", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:18:15Z", "event":"Docked", "StationName":"Jefferies Port", "StationType":"Coriolis", "StarSystem":"Ugrivirii", "StationFaction":"Ugrivirii Life Inc", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Empire", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-20T22:20:46Z", "event":"RefuelAll", "Cost":124, "Amount":2.448841 }
+{ "timestamp":"2016-12-20T22:20:47Z", "event":"RepairAll", "Cost":548 }
+{ "timestamp":"2016-12-20T22:20:49Z", "event":"BuyAmmo", "Cost":4965 }
+{ "timestamp":"2016-12-20T22:20:56Z", "event":"PayLegacyFines", "Amount":800 }
+{ "timestamp":"2016-12-20T22:21:00Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":886167 }
+{ "timestamp":"2016-12-20T22:22:53Z", "event":"ModuleBuy", "Slot":"Slot07_Size5", "SellItem":"$int_hullreinforcement_size5_class1_name;", "SellItem_Localised":"Hull Reinforcement", "SellPrice":146250, "BuyItem":"$int_fighterbay_size5_class1_name;", "BuyItem_Localised":"Fighter Hangar", "BuyPrice":561252, "Ship":"cutter", "ShipID":16 }
+{ "timestamp":"2016-12-20T22:23:19Z", "event":"ModuleSell", "Slot":"Slot07_Size5", "SellItem":"$int_fighterbay_size5_class1_name;", "SellItem_Localised":"Fighter Hangar", "SellPrice":561252, "Ship":"cutter", "ShipID":16 }
+{ "timestamp":"2016-12-20T22:23:36Z", "event":"ModuleBuy", "Slot":"Slot05_Size6", "SellItem":"$int_fsdinterdictor_size4_class2_name;", "SellItem_Localised":"FSD Interdictor", "SellPrice":770516, "BuyItem":"$int_fighterbay_size6_class1_name;", "BuyItem_Localised":"Fighter Hangar", "BuyPrice":1822607, "Ship":"cutter", "ShipID":16 }
+{ "timestamp":"2016-12-20T22:24:12Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Mark Sanders;", "From_Localised":"Mark Sanders", "Message":"$Commuter_AuthorityScan01;", "Message_Localised":"Is there a problem here, officer?", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:25:27Z", "event":"CrewHire", "Name":"Ember Hurley", "Faction":"Noctilucent Dyn", "Cost":150000, "CombatRank":4 }
+{ "timestamp":"2016-12-20T22:25:32Z", "event":"CrewHire", "Name":"Abrianna Hodges", "Faction":"Noctilucent Dyn", "Cost":150000, "CombatRank":4 }
+{ "timestamp":"2016-12-20T22:25:40Z", "event":"CrewAssign", "Name":"Ember Hurley", "Role":"Active" }
+{ "timestamp":"2016-12-20T22:27:16Z", "event":"Undocked", "StationName":"Jefferies Port", "StationType":"Coriolis" }
+{ "timestamp":"2016-12-20T22:27:50Z", "event":"ReceiveText", "From":"Jefferies Port", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:28:14Z", "event":"LaunchFighter", "Loadout":"one", "PlayerControlled":false }
+{ "timestamp":"2016-12-20T22:29:24Z", "event":"DockFighter" }
+{ "timestamp":"2016-12-20T22:30:03Z", "event":"SupercruiseEntry", "StarSystem":"Ugrivirii" }
+{ "timestamp":"2016-12-20T22:30:46Z", "event":"SupercruiseExit", "StarSystem":"Ugrivirii", "Body":"Ugrivirii 2 B Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-12-20T22:32:26Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-12-20T22:32:26Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"decodedemissiondata", "Count":3 }
+{ "timestamp":"2016-12-20T22:32:32Z", "event":"LaunchFighter", "Loadout":"zero", "PlayerControlled":false }
+{ "timestamp":"2016-12-20T22:32:35Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Bluter;", "From_Localised":"Bluter", "Message":"$Pirate_OnStartScanCargo01;", "Message_Localised":"I see all!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:32:45Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Bluter;", "From_Localised":"Bluter", "Message":"$Pirate_OnNoCargoFound10;", "Message_Localised":"There's nothing worth my while here.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:01Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Bluter;", "From_Localised":"Bluter", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:16Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation05;", "Message_Localised":"A crime has been reported here. All ships will be scanned.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:44Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveInvestigate02;", "Message_Localised":"Incident response units on station.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:44Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveInvestigate05;", "Message_Localised":"Police response unit in position.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:44Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveInvestigate01;", "Message_Localised":"Investigating reports of crime.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:45Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:45Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation05;", "Message_Localised":"A crime has been reported here. All ships will be scanned.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:47Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation01;", "Message_Localised":"All citizens must submit to authority scans. Do not attempt to flee!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:33:56Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=jabba-j;", "From_Localised":"jabba-j", "Message":"$Pirate_OnStartScanCargo07;", "Message_Localised":"Do you have anything of value?", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:34:06Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=jabba-j;", "From_Localised":"jabba-j", "Message":"$Pirate_OnNoCargoFound02;", "Message_Localised":"Bah, nothing.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:34:16Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement04;", "Message_Localised":"Reinforcements have arrived.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:34:40Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Bluter;", "From_Localised":"Bluter", "Message":"$BadKarmaCriticalDamage04;", "Message_Localised":"I don't believe it!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:34:48Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:35:13Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Bluter;", "From_Localised":"Bluter", "Message":"$Pirate_OnDeclarePiracyAttack14;", "Message_Localised":"Your doom approaches.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:35:20Z", "event":"Bounty", "Rewards":[ { "Faction":"Ugrivirii Life Inc", "Reward":800 }, { "Faction":"Empire", "Reward":20475 } ], "TotalReward":21275, "VictimFaction":"Kurians Dominion" }
+{ "timestamp":"2016-12-20T22:35:38Z", "event":"Bounty", "Rewards":[ { "Faction":"Ugrivirii Life Inc", "Reward":74847 } ], "TotalReward":74847, "VictimFaction":"Kurians Dominion" }
+{ "timestamp":"2016-12-20T22:35:56Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_FinishedAtInvestigationLocation01;", "Message_Localised":"Scanning complete. Citizens, please return to your business.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:36:09Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ares Northbridge;", "From_Localised":"Ares Northbridge", "Message":"$Pirate_OnStartScanCargo09;", "Message_Localised":"The scan will soon be over.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:36:19Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ares Northbridge;", "From_Localised":"Ares Northbridge", "Message":"$Pirate_OnNoCargoFound09;", "Message_Localised":"Next time you should fill your hold with gold.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:36:39Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Mullah;", "From_Localised":"Mullah", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:36:49Z", "event":"Bounty", "Rewards":[ { "Faction":"Ugrivirii Life Inc", "Reward":800 }, { "Faction":"Empire", "Reward":96187 } ], "TotalReward":96987, "VictimFaction":"Ugrivirii Life Inc" }
+{ "timestamp":"2016-12-20T22:37:25Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ken Medlin;", "From_Localised":"Ken Medlin", "Message":"$Escort_AttackDutyStart02;", "Message_Localised":"Hostiles detected, protect the lead ship at all costs.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:37:37Z", "event":"ReceiveText", "From":"$cmdr_decorate:#name=TyXo;", "From_Localised":"CMDR TyXo", "Message":"hello :)", "Channel":"player" }
+{ "timestamp":"2016-12-20T22:37:44Z", "event":"SendText", "To":"$cmdr_decorate:#name=TyXo;", "To_Localised":"CMDR TyXo", "Message":"sup" }
+{ "timestamp":"2016-12-20T22:37:51Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ludovic;", "From_Localised":"Ludovic", "Message":"$Escort_NearDeath07;", "Message_Localised":"I've taken too much damage.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:38:01Z", "event":"HullDamage", "Health":0.181671 }
+{ "timestamp":"2016-12-20T22:38:01Z", "event":"HullDamage", "Health":0.181671 }
+{ "timestamp":"2016-12-20T22:38:01Z", "event":"HullDamage", "Health":0.181671 }
+{ "timestamp":"2016-12-20T22:38:01Z", "event":"HullDamage", "Health":0.181671 }
+{ "timestamp":"2016-12-20T22:38:49Z", "event":"Bounty", "Rewards":[ { "Faction":"Ugrivirii Life Inc", "Reward":209340 } ], "TotalReward":209340, "VictimFaction":"Dominion of Ugrivirii" }
+{ "timestamp":"2016-12-20T22:39:21Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jonathan Bale;", "From_Localised":"Jonathan Bale", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:39:42Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gareth Davies;", "From_Localised":"Gareth Davies", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:41:52Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Butler;", "From_Localised":"Peter Butler", "Message":"$Pirate_OnStartScanCargo08;", "Message_Localised":"What do you have in your cargo hold?", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:42:02Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Butler;", "From_Localised":"Peter Butler", "Message":"$Pirate_OnNoCargoFound02;", "Message_Localised":"Bah, nothing.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:42:17Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Butler;", "From_Localised":"Peter Butler", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:42:20Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Wronias Moneijas;", "From_Localised":"Wronias Moneijas", "Message":"$Escort_NearDeath09;", "Message_Localised":"Where's my support?", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:42:46Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jasmine Jessica;", "From_Localised":"Jasmine Jessica", "Message":"$Pirate_OnStartScanCargo09;", "Message_Localised":"The scan will soon be over.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:42:47Z", "event":"Bounty", "Rewards":[ { "Faction":"Ugrivirii Life Inc", "Reward":27020 } ], "TotalReward":27020, "VictimFaction":"Dominion of Ugrivirii" }
+{ "timestamp":"2016-12-20T22:43:10Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jasmine Jessica;", "From_Localised":"Jasmine Jessica", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:44:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=black marlin;", "From_Localised":"black marlin", "Message":"$Pirate_OnHullLowJumpAway10;", "Message_Localised":"Too much damage. Must escape.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:44:13Z", "event":"Bounty", "Rewards":[ { "Faction":"Ugrivirii Life Inc", "Reward":49535 } ], "TotalReward":49535, "VictimFaction":"Mitschigua Empire Group" }
+{ "timestamp":"2016-12-20T22:44:31Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"scandatabanks", "Count":3 }
+{ "timestamp":"2016-12-20T22:45:02Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-12-20T22:45:24Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Hettie;", "From_Localised":"Hettie", "Message":"$BadKarmaCriticalDamage07;", "Message_Localised":"Too much damage!", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:45:36Z", "event":"Bounty", "Rewards":[ { "Faction":"Ugrivirii Life Inc", "Reward":64100 } ], "TotalReward":64100, "VictimFaction":"Kurians Dominion" }
+{ "timestamp":"2016-12-20T22:46:09Z", "event":"Bounty", "Rewards":[ { "Faction":"Empire", "Reward":56040 } ], "TotalReward":56040, "VictimFaction":"Ugrivirii Life Inc" }
+{ "timestamp":"2016-12-20T22:46:54Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Anil;", "From_Localised":"Anil", "Message":"$Pirate_OnStartScanCargo06;", "Message_Localised":"Let's see what you are carrying.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Anil;", "From_Localised":"Anil", "Message":"$Pirate_OnNoCargoFound03;", "Message_Localised":"No cargo? Useless dreg.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:09Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement02;", "Message_Localised":"Back-up has arrived.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:09Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement01;", "Message_Localised":"Reinforcements incoming.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:09Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement01;", "Message_Localised":"Reinforcements incoming.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:09Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement03;", "Message_Localised":"We're responding to an emergency signal.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:09Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Anil;", "From_Localised":"Anil", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:09Z", "event":"CommitCrime", "CrimeType":"assault", "Faction":"Ugrivirii Life Inc", "Victim":"Anil", "Bounty":800 }
+{ "timestamp":"2016-12-20T22:47:20Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$OverwatchAttackRun06;", "Message_Localised":"Lining up for the shot.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:27Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-20T22:47:32Z", "event":"HullDamage", "Health":0.724569 }
+{ "timestamp":"2016-12-20T22:47:36Z", "event":"HullDamage", "Health":0.482834 }
+{ "timestamp":"2016-12-20T22:47:38Z", "event":"HullDamage", "Health":0.398809 }
+{ "timestamp":"2016-12-20T22:47:38Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$OverwatchAttackRun06;", "Message_Localised":"Lining up for the shot.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:41Z", "event":"ReceiveText", "From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$OverwatchAttackRun06;", "Message_Localised":"Lining up for the shot.", "Channel":"npc" }
+{ "timestamp":"2016-12-20T22:47:44Z", "event":"HullDamage", "Health":0.196948 }
+{ "timestamp":"2016-12-20T22:47:45Z", "event":"CockpitBreached" }
+{ "timestamp":"2016-12-20T22:47:47Z", "event":"Died", "KillerName":"$ShipName_Police_Empire;", "KillerName_Localised":"Internal Security Service", "KillerShip":"eagle", "KillerRank":"Expert" }
